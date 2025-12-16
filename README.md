@@ -23,7 +23,7 @@ This project is especially useful for **embedded systems**, **firmware developme
 ## ⚙️ Build, Clean & Run
 
 ### Clean Build Files
-```bash
+
 make clean
 Build the Project
 bash
@@ -134,5 +134,6 @@ Electronics & Communication Engineering
 Embedded Systems & Firmware Development Enthusiast
 
 GitHub: https://github.com/AxayRam
+
 
 
