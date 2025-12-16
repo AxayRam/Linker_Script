@@ -24,6 +24,7 @@ This project is especially useful for **embedded systems**, **firmware developme
 
 ### Clean Build Files
 
+bash
 make clean
 Build the Project
 bash
@@ -135,5 +136,7 @@ Embedded Systems & Firmware Development Enthusiast
 
 GitHub: https://github.com/AxayRam
 
+yaml
+Copy code
 
 
