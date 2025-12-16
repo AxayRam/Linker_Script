@@ -1,8 +1,8 @@
 # 🔗 Linker Script Project
 ## Understanding Linker Script, Memory Layout & Build Process in C
 
-This repository is created to understand the **linker stage**, **linker scripts (`.ld`)**, and **memory layout control** in C programs.  
-It demonstrates how source files, object files, Makefile, and a custom linker script work together to generate the final executable.
+This repository focuses on understanding the **linker stage**, **linker scripts (`.ld`)**, and **memory layout control** in C programs.  
+It demonstrates how source files, object files, a Makefile, and a custom linker script work together to generate the final executable.
 
 This project is especially useful for **embedded systems**, **firmware development**, and **low-level system programming**.
 
@@ -22,8 +22,6 @@ This project is especially useful for **embedded systems**, **firmware developme
 
 ## ⚙️ Build, Clean & Run
 
-## ⚙️ Build, Clean & Run
-
 ### Clean Build Files
 ```bash
 make clean
@@ -35,7 +33,7 @@ Run the Executable
 bash
 Copy code
 ./output
-Note: Executable name Makefile configuration पर depend करता है।
+Note: Executable name depends on the Makefile configuration.
 
 🔧 Linker Script Overview (main.ld)
 The linker script is used to:
