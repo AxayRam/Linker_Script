@@ -22,6 +22,8 @@ This project is especially useful for **embedded systems**, **firmware developme
 
 ## ⚙️ Build, Clean & Run
 
+## ⚙️ Build, Clean & Run
+
 ### Clean Build Files
 ```bash
 make clean
@@ -33,7 +35,7 @@ Run the Executable
 bash
 Copy code
 ./output
-Note: Executable name depends on the Makefile configuration.
+Note: Executable name Makefile configuration पर depend करता है।
 
 🔧 Linker Script Overview (main.ld)
 The linker script is used to:
@@ -134,4 +136,5 @@ Electronics & Communication Engineering
 Embedded Systems & Firmware Development Enthusiast
 
 GitHub: https://github.com/AxayRam
+
 
